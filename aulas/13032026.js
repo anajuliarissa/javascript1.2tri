@@ -9,3 +9,14 @@ soma(lucro,lucro2)
 function resultadoDivisaoSocial(lucro,lucro2){
     return soma(lucro,lucro2)/2
 }
+
+function calculadora(ari,a,b){
+
+    switch(ari){
+        case '+':
+            resultado = a + b;
+            break;
+        case '-':
+            
+    }
+}
