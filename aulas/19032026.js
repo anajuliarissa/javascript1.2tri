@@ -1,1 +1,10 @@
 //revisão
+
+//Tipos primitivos
+
+//Números
+let numero = 30
+let decimal = 20.30
+//Stript
+
+let nome = "Não sei, você não sabe?"
